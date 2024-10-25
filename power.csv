@@ -1,0 +1,7 @@
+
+"Type of Fault","Short Form","Symmetrical or Unsymmetrical"
+"Three phase line to ground fault","3LG","Symmetrical"
+"Three phase line to line fault","3LL","Symmetrical"
+"single phase line to ground fault","1LG","Unsymmetrical"
+"single phase line to line fault","1LL","Unsymmetrical"
+"Double line to ground fault","2LG","Unsymmetrical"
